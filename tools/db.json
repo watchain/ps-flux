@@ -1,6 +1,34 @@
 {
   "courses": [
     {
+      "id": 1,
+      "title": "Securing React Apps with Auth0",
+      "slug": "react-auth0-authentication-security",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 2,
+      "title": "React: The Big Picture",
+      "slug": "react-big-picture",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 3,
+      "title": "Creating Reusable React Components",
+      "slug": "react-creating-reusable-components",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 4,
+      "title": "Building a JavaScript Development Environment 1",
+      "slug": "javascript-development-environment",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
       "id": 5,
       "title": "Building Applications with React and Redux",
       "slug": "react-redux-react-router-es6",
@@ -44,19 +72,35 @@
     },
     {
       "id": 11,
-      "slug": "sdgdsa",
-      "title": "sdgdsa",
-      "authorId": 1,
-      "category": "casa",
-      "createdAt": 1558974773298
+      "slug": "sdfsdfsdf",
+      "title": "sdfsdfsdf",
+      "authorId": 2,
+      "category": "sdfsdf",
+      "createdAt": 1581406983014
     },
     {
       "id": 12,
-      "slug": "sadgdas",
-      "title": "sadgdas",
+      "slug": "sdfsfsfsewrwr",
+      "title": "sdfsfsfsewrwr",
+      "authorId": 2,
+      "category": "werwerew",
+      "createdAt": 1581407012310
+    },
+    {
+      "id": 13,
+      "slug": "cvcbvcbvc",
+      "title": "cvcbvcbvc",
       "authorId": 1,
-      "category": "cat",
-      "createdAt": 1558974933115
+      "category": "cvbcbvcb",
+      "createdAt": 1581407030583
+    },
+    {
+      "id": 14,
+      "slug": "cathy",
+      "title": "Cathy",
+      "authorId": 1,
+      "category": "snack",
+      "createdAt": 1581407818829
     }
   ],
   "authors": [
